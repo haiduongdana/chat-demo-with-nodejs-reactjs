@@ -31,4 +31,4 @@ npm start
 
 ## Authors
 
-* **PSCD**
+* **Duong**
